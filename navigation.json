@@ -1,0 +1,14 @@
+[
+  {
+    "label": "Docs",
+    "type": "tab",
+    "path": "docs",
+    "children": [
+      {
+        "label": "Blogmonday",
+        "type": "page",
+        "path": "docs/blogmonday.mdx"
+      }
+    ]
+  }
+]
